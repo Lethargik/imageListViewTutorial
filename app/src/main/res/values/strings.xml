@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ListViewTutorial</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="titles">
+        <item>meme 1</item>
+        <item>meme 2</item>
+        <item>meme 3</item>
+        <item>meme 4</item>
+        <item>meme 5</item>
+        <item>meme 6</item>
+        <item>meme 7</item>
+        <item>meme 8</item>
+        <item>meme 9</item>
+        <item>meme 10</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>description 1</item>
+        <item>description 2</item>
+        <item>description 3</item>
+        <item>description 4</item>
+        <item>description 5</item>
+        <item>description 6</item>
+        <item>description 7</item>
+        <item>description 8</item>
+        <item>description 9</item>
+        <item>meme 10</item>
+    </string-array>
+</resources>
